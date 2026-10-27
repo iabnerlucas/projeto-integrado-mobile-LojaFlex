@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AulaTela" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/flex_green</item>
+        <item name="colorPrimaryVariant">@color/flex_green_dark</item>
+    </style>
+
+    <style name="Theme.AulaTela" parent="Base.Theme.AulaTela" />
+</resources>
